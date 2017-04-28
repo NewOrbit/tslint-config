@@ -1,0 +1,21 @@
+{
+  "name": "@neworbit/tslint-config",
+  "version": "0.0.1",
+  "description": "NewOrbit standard tslint configuration",
+  "scripts": { },
+  "main": "tslint.json",
+  "keywords": [
+    "tslint",
+    "typescript",
+    "neworbit"
+  ],
+  "author": "NewOrbit Ltd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewOrbit/NewOrbit.tslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NewOrbit/NewOrbit.tslint-config/issues"
+  },
+  "homepage": "https://github.com/NewOrbit/NewOrbit.tslint-config#readme"
+}
