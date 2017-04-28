@@ -12,10 +12,10 @@
   "author": "NewOrbit Ltd",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewOrbit/NewOrbit.tslint-config.git"
+    "url": "git+https://github.com/NewOrbit/tslint-config.git"
   },
   "bugs": {
-    "url": "https://github.com/NewOrbit/NewOrbit.tslint-config/issues"
+    "url": "https://github.com/NewOrbit/tslint-config/issues"
   },
-  "homepage": "https://github.com/NewOrbit/NewOrbit.tslint-config#readme"
+  "homepage": "https://github.com/NewOrbit/tslint-config#readme"
 }
