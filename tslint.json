@@ -9,7 +9,7 @@
 			]
 		},
 		"array-type": {
-			"options": ["array-simple"]
+			"options": ["generic"]
 		},
 		"arrow-parens": false,
 		"arrow-return-shorthand": true,
