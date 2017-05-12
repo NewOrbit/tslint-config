@@ -36,10 +36,8 @@
 		"indent":  {
 			"options": ["spaces"]
 		},
-		"interface-name": {
-			"options": ["always-prefix"]
-		},
-		"interface-over-type-literal": true,
+		"interface-name": false,
+		"interface-over-type-literal": false,
 		"jsdoc-format": true,
 		"label-position": true,
 		"max-classes-per-file": {
