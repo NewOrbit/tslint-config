@@ -44,7 +44,7 @@
 			"options": [1]
 		},
 		"max-line-length": {
-			"options": [120]
+			"options": [160]
 		},
 		"member-access": true,
 		"member-ordering": {
