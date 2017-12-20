@@ -9,7 +9,7 @@
 			]
 		},
 		"array-type": {
-			"options": ["generic"]
+			"options": ["array"]
 		},
 		"arrow-parens": false,
 		"arrow-return-shorthand": true,
@@ -44,7 +44,7 @@
 			"options": [1]
 		},
 		"max-line-length": {
-			"options": [120]
+			"options": [160]
 		},
 		"member-access": true,
 		"member-ordering": {
@@ -90,7 +90,6 @@
 		"no-unnecessary-initializer": true,
 		"no-unsafe-finally": true,
 		"no-unused-expression": true,
-		// disable this rule as it is very heavy performance-wise and not that useful
 		"no-use-before-declare": false,
 		"no-var-keyword": true,
 		"no-var-requires": true,
@@ -98,7 +97,7 @@
 			"options": ["consistent-as-needed"]
 		},
 		"object-literal-shorthand": true,
-		"object-literal-sort-keys": true,
+		"object-literal-sort-keys": false,
 		"one-line": {
 			"options": [
 				"check-catch",
@@ -198,7 +197,7 @@
 		"jsdoc-format": true,
 		"label-position": true,
 		"max-line-length": {
-			"options": [120]
+			"options": [160]
 		},
 		"new-parens": true,
 		"no-arg": true,
@@ -228,9 +227,8 @@
 		"no-switch-case-fall-through": false,
 		"no-trailing-whitespace": true,
 		"no-unused-expression": true,
-		// disable this rule as it is very heavy performance-wise and not that useful
 		"no-use-before-declare": false,
-		"object-literal-sort-keys": true,
+		"object-literal-sort-keys": false,
 		"one-line": {
 			"options": [
 				"check-catch",
