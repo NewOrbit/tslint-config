@@ -138,6 +138,7 @@
 				"named": "never"
 			}
 		},
+		"switch-default": true,
 		"trailing-comma": false,
 		"triple-equals": {
 			"options": ["allow-null-check"]
