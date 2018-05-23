@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/NewOrbit/tslint-config/issues"
   },
-  "homepage": "https://github.com/NewOrbit/tslint-config#readme"
+  "homepage": "https://github.com/NewOrbit/tslint-config#readme",
+  "license": "MIT"
 }
