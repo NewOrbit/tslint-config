@@ -71,6 +71,9 @@
 		},
 		"no-construct": true,
 		"no-debugger": true,
+		"no-default-export": {
+			"severity": "warning"
+		},
 		"no-duplicate-super": true,
 		"no-empty": true,
 		"no-empty-interface": true,
