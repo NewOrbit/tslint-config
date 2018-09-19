@@ -39,8 +39,6 @@
 		"interface-name": false,
 		"interface-over-type-literal": false,
 		"jsdoc-format": true,
-
-		// start tslint-react rules
 		"jsx-alignment": true,
         "jsx-ban-props": [true, ["style", "use className and css"]],
         "jsx-boolean-value": [true, "false"],
@@ -54,8 +52,6 @@
         "jsx-self-close": true,
         "jsx-space-before-trailing-slash": true,
 		"jsx-wrap-multiline": true,
-		// end tslint-react rules
-
 		"label-position": true,
 		"max-classes-per-file": {
 			"options": [1]
