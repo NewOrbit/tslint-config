@@ -7,7 +7,8 @@
   "keywords": [
     "tslint",
     "typescript",
-    "neworbit"
+    "neworbit",
+    "tslint-react"
   ],
   "author": "NewOrbit Ltd",
   "repository": {
@@ -18,5 +19,8 @@
     "url": "https://github.com/NewOrbit/tslint-config/issues"
   },
   "homepage": "https://github.com/NewOrbit/tslint-config#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tslint-react": "^3.6.0"
+  }
 }
