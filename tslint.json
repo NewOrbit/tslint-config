@@ -80,7 +80,8 @@
 				"time",
 				"timeEnd",
 				"trace"
-			]
+			],
+			"severity": "error"
 		},
 		"no-construct": true,
 		"no-debugger": true,
