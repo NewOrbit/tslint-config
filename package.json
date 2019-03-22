@@ -21,6 +21,7 @@
   "homepage": "https://github.com/NewOrbit/tslint-config#readme",
   "license": "MIT",
   "dependencies": {
-    "tslint-react": "^3.6.0"
+    "tslint-react": "^3.6.0",
+    "tslint-react-hooks": "^2.0.0"
   }
 }
