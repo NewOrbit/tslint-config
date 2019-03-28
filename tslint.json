@@ -1,5 +1,5 @@
 {
-	"extends": ["tslint:recommended", "tslint-react"],
+	"extends": ["tslint:recommended", "tslint-react", "tslint-react-hooks"],
 	"rules": {
 		"adjacent-overload-signatures": true,
 		"align": {
@@ -99,6 +99,7 @@
 		"no-parameter-properties": false,
 		"no-reference": true,
 		"no-reference-import": true,
+		"no-require-imports": true,
 		"no-shadowed-variable": true,
 		"no-string-literal": true,
 		"no-string-throw": true,
@@ -143,6 +144,7 @@
 			]
 		},
 		"radix": true,
+		"react-hooks-nesting": true,
 		"semicolon": {
 			"options": ["always"]
 		},
