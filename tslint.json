@@ -1,5 +1,10 @@
 {
-	"extends": ["tslint:recommended", "tslint-react", "tslint-react-hooks"],
+	"extends": [
+		"tslint:recommended",
+		"tslint-react",
+		"tslint-react-hooks",
+		"tslint-import-own-index"
+	],
 	"rules": {
 		"adjacent-overload-signatures": true,
 		"align": {
