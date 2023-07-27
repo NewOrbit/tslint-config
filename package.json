@@ -2,7 +2,7 @@
   "name": "@neworbit/tslint-config",
   "version": "1.0.0",
   "description": "NewOrbit standard tslint configuration",
-  "scripts": { },
+  "scripts": {},
   "main": "tslint.json",
   "keywords": [
     "tslint",
